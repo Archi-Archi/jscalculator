@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    font-family: 'Consolas';
+    text-align: center;
+}
+h1 {
+    color: lightBlue;
+    text-align: center;
+}
+h2 {
+    color: blue;
+    text-align: center;
+}
+h3 {
+    color: blue;
+    text-align: center;
+}
+p {
+    color: white;
+    text-align: center;
+}
+table {
+    color: blue;
+    text-align:center;
+    margin: auto
+}
+
+button {
+    background-color: #000020;
+    color: blue;
+}
+
+.header {
+    background-color: darkblue;
+    border: 10px solid blue;
+    border-color: blue;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.body {
+    background-color: #000020;
+    border: 10px solid darkblue;
+    border-radius: 16px;
+    padding: 24px;
+    margin: 20px;
+}
+
+.console {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    padding: 15px;
+    margin: auto;
+    border-radius: 5px;
+    border: solid white;
+    max-height: 200px;
+    overflow-y: auto;
+}
